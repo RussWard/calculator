@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussWard/calculator.git"
+  },
+  "author": "russ Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussWard/calculator/issues"
+  },
+  "homepage": "https://github.com/RussWard/calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
