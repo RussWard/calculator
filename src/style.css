@@ -1,3 +1,21 @@
 body {
-  background-color: #ddd;
+  background-color:#ddd;
+}
+
+.button {
+  display: inline-block;
+  border: solid 2px;
+  border-radius: 5px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  border: solid 2px;
+  border-radius: 5px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
 }
